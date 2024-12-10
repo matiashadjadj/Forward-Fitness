@@ -31,20 +31,7 @@ Technologies Used
 HTML: Structuring the content and layout of the web pages.
 CSS: Styling for responsiveness, interactivity, and modern design aesthetics.
 JavaScript: Adding dynamic behavior for the hamburger menu, video controls, and promotional features.
-File Structure
 
-ForwardFitness/
-│
-├── index.html               # Main HTML file for the homepage
-├── styles.css               # CSS file for styling and responsive design
-├── scripts.js               # JavaScript file for interactivity
-├── /Media                   # Folder containing video and description files
-│   ├── burpees.mp4
-│   ├── plank.mp4
-│   ├── mc.mp4
-│   ├── burpees-descriptions.vtt
-│   ├── plank-descriptions.vtt
-│   ├── mountain-descriptions.vtt
 Setup Instructions
 
 Clone the repository or download the project files.
